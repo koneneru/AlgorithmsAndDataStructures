@@ -123,7 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
+    <ClCompile Include="DataStructures\Dequeue.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3_DataStructures\3_DataStructures.h" />
+    <ClInclude Include="DataStructures\Dequeue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

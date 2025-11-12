@@ -13,10 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Файлы заголовков\DataStructures">
+      <UniqueIdentifier>{7cb599e0-1b28-4554-8af0-c8724a0bb4e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DataStructures">
+      <UniqueIdentifier>{eb39a3cd-3462-499c-8276-49f304cbdb0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\3_DataStructures">
+      <UniqueIdentifier>{f9a1befa-af28-43a5-a18e-065e9e80b691}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructures\Dequeue.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3_DataStructures\3_DataStructures.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\Dequeue.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
