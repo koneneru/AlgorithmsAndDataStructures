@@ -36,6 +36,12 @@ int pop_back(Dequeue* deq) {
 	return deq->data[deq->tail];
 }
 
+int dequeue_peek_back(Dequeue* deq) {
+	if (deq->size == 0) return -1;
+
+	return deq->data[(deq->tail - 1 + deq->capacity) % deq->capacity];
+}
+
 void push_front(Dequeue* deq, const int value) {
 	deq->head = (deq->head - 1 + deq->capacity) % deq->capacity;
 	deq->data[deq->head] = value;
@@ -52,4 +58,10 @@ int pop_front(Dequeue* deq) {
 	deq->size--;
 
 	return r;
+}
+
+int dequeue_peek_front(Dequeue* deq) {
+	if (deq->size == 0) return -1;
+
+	return deq->data[deq->head];
 }

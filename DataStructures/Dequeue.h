@@ -14,5 +14,7 @@ void dequeue_destroy(Dequeue* deq);
 
 void push_back(Dequeue* deq, const int value);
 int pop_back(Dequeue* deq);
+int dequeue_peek_back(Dequeue* deq);
 void push_front(Dequeue* deq, const int value);
 int pop_front(Dequeue* deq);
+int dequeue_peek_front(Dequeue* deq);
