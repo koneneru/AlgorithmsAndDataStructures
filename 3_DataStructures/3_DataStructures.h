@@ -2,3 +2,4 @@
 #define DATASTRUCTURES_H
 
 int GoblinsAndShamans();
+int DeltaQueue();

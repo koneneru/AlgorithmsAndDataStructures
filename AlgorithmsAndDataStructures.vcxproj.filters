@@ -36,6 +36,12 @@
     <ClCompile Include="DataStructures\Stack.cpp">
       <Filter>Исходные файлы\DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="DataStructures\Queue.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="3_DataStructures\DeltaQueue.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -45,6 +51,9 @@
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
     <ClInclude Include="DataStructures\Stack.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\Queue.h">
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
   </ItemGroup>

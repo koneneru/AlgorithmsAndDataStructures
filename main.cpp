@@ -3,7 +3,8 @@
 
 int main()
 {
-    GoblinsAndShamans();
+    //GoblinsAndShamans();
+    DeltaQueue();
 
     return 0;
 }
