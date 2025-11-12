@@ -33,12 +33,18 @@
     <ClCompile Include="DataStructures\Dequeue.cpp">
       <Filter>Исходные файлы\DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="DataStructures\Stack.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="DataStructures\Dequeue.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\Stack.h">
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
   </ItemGroup>
