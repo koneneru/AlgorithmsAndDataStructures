@@ -3,3 +3,4 @@
 
 int GoblinsAndShamans();
 int DeltaQueue();
+int SumOverChangingSegment();

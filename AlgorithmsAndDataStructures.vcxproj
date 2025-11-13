@@ -125,7 +125,9 @@
   <ItemGroup>
     <ClCompile Include="3_DataStructures\DeltaQueue.cpp" />
     <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
+    <ClCompile Include="3_DataStructures\SumOverChangingSegment.cpp" />
     <ClCompile Include="DataStructures\Dequeue.cpp" />
+    <ClCompile Include="DataStructures\FewickTree.cpp" />
     <ClCompile Include="DataStructures\Queue.cpp" />
     <ClCompile Include="DataStructures\Stack.cpp" />
     <ClCompile Include="main.cpp" />
@@ -133,6 +135,7 @@
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h" />
     <ClInclude Include="DataStructures\Dequeue.h" />
+    <ClInclude Include="DataStructures\FewickTree.h" />
     <ClInclude Include="DataStructures\Queue.h" />
     <ClInclude Include="DataStructures\Stack.h" />
   </ItemGroup>

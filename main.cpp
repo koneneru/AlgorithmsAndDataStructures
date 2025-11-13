@@ -4,7 +4,8 @@
 int main()
 {
     //GoblinsAndShamans();
-    DeltaQueue();
+    //DeltaQueue();
+    SumOverChangingSegment();
 
     return 0;
 }
