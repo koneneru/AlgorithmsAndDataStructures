@@ -5,7 +5,8 @@ int main()
 {
     //GoblinsAndShamans();
     //DeltaQueue();
-    SumOverChangingSegment();
+    //SumOverChangingSegment();
+    MassUpdate2();
 
     return 0;
 }

@@ -48,6 +48,12 @@
     <ClCompile Include="3_DataStructures\SumOverChangingSegment.cpp">
       <Filter>Исходные файлы\3_DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="3_DataStructures\MassUpdate2.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructures\SegmentTree.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -63,6 +69,9 @@
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
     <ClInclude Include="DataStructures\FewickTree.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\SegmentTree.h">
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
   </ItemGroup>

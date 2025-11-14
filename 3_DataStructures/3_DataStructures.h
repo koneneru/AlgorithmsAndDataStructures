@@ -4,3 +4,4 @@
 int GoblinsAndShamans();
 int DeltaQueue();
 int SumOverChangingSegment();
+int MassUpdate2();
