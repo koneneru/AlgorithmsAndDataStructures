@@ -10,6 +10,6 @@ typedef struct {
 Stack* stack_create(const int capacity);
 void stack_destroy(Stack* deq);
 
-void push(Stack* stack, const int value);
-int pop(Stack* stack);
-int peek(Stack* stack);
+void stack_push(Stack* stack, const int value);
+int stack_pop(Stack* stack);
+int stack_peek(Stack* stack);

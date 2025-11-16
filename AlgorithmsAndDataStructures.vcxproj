@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="3_DataStructures\DeltaQueue.cpp" />
     <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
+    <ClCompile Include="3_DataStructures\LargeLinearCollider.cpp" />
     <ClCompile Include="3_DataStructures\MassUpdate2.cpp" />
     <ClCompile Include="3_DataStructures\SumOverChangingSegment.cpp" />
     <ClCompile Include="DataStructures\Dequeue.cpp" />
@@ -133,6 +134,7 @@
     <ClCompile Include="DataStructures\SegmentTree.cpp" />
     <ClCompile Include="DataStructures\Stack.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sort\MergeSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h" />
@@ -141,6 +143,7 @@
     <ClInclude Include="DataStructures\Queue.h" />
     <ClInclude Include="DataStructures\SegmentTree.h" />
     <ClInclude Include="DataStructures\Stack.h" />
+    <ClInclude Include="Sort\Sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -22,6 +22,9 @@
     <Filter Include="Исходные файлы\3_DataStructures">
       <UniqueIdentifier>{f9a1befa-af28-43a5-a18e-065e9e80b691}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Sort">
+      <UniqueIdentifier>{37f15d7e-3f04-41a5-8abd-2b310b2dc18e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -54,6 +57,12 @@
     <ClCompile Include="DataStructures\SegmentTree.cpp">
       <Filter>Исходные файлы\DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="Sort\MergeSort.cpp">
+      <Filter>Исходные файлы\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="3_DataStructures\LargeLinearCollider.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -73,6 +82,9 @@
     </ClInclude>
     <ClInclude Include="DataStructures\SegmentTree.h">
       <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort\Sort.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -6,7 +6,8 @@ int main()
     //GoblinsAndShamans();
     //DeltaQueue();
     //SumOverChangingSegment();
-    MassUpdate2();
+    //MassUpdate2();
+    LargeLinearCollider();
 
     return 0;
 }

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "Stack.h"
 
-Stack* stack_create(int capacity) {
+Stack* stack_create(const int capacity) {
 	Stack* stack = (Stack*)malloc(sizeof(Stack));
 	if (stack == NULL) return NULL;
 
@@ -12,17 +12,22 @@ Stack* stack_create(int capacity) {
 	return stack;
 }
 
-void push(Stack* stack, const int value) {
+void stack_destroy(Stack* s) {
+	free(s->data);
+	free(s);
+}
+
+void stack_push(Stack* stack, const int value) {
 	stack->data[stack->size++] = value;
 }
 
-int pop(Stack* stack) {
+int stack_pop(Stack* stack) {
 	if (stack->size == 0) return -1;
 
 	return stack->data[--stack->size];
 }
 
-int peek(Stack* stack) {
+int stack_peek(Stack* stack) {
 	if (stack->size == 0) return -1;
 
 	return stack->data[stack->size - 1];
