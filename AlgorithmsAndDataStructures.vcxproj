@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3_DataStructures\DeltaQueue.cpp" />
+    <ClCompile Include="3_DataStructures\DNAReconstruction.cpp" />
     <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
     <ClCompile Include="3_DataStructures\MassUpdate2.cpp" />
     <ClCompile Include="3_DataStructures\SumOverChangingSegment.cpp" />

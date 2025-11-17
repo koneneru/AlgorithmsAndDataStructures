@@ -6,7 +6,9 @@ int main()
     //GoblinsAndShamans();
     //DeltaQueue();
     //SumOverChangingSegment();
-    MassUpdate2();
+    //MassUpdate2();
+
+    DnaReconstruction();
 
     return 0;
 }

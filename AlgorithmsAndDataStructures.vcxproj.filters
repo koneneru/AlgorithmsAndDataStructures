@@ -54,6 +54,9 @@
     <ClCompile Include="DataStructures\SegmentTree.cpp">
       <Filter>Исходные файлы\DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="3_DataStructures\DNAReconstruction.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
