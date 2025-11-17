@@ -7,7 +7,8 @@ int main()
     //DeltaQueue();
     //SumOverChangingSegment();
     //MassUpdate2();
-    LargeLinearCollider();
+    //LargeLinearCollider();
+    DnaReconstruction();
 
     return 0;
 }
