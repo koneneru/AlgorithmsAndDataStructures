@@ -1,20 +1,15 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include "../common.h"
 #include "1_LimitationsInProgramming.h"
-
-int min(int a, int b) {
-    return a < b ? a : b;
-}
-
-int minOf3(int a, int b, int c) {
-    return min(min(a, b), min(b, c));
-}
-
-int a[1651] = { 1 };
 
 int Problem2_3_5()
 {
     int n;
     scanf_s("%d", &n);
+
+    int* a = (int*)malloc((n + 1) * sizeof(int));
+    a[0] = 1;
 
     int i2, i3, i5;
     i2 = i3 = i5 = 0;
@@ -30,6 +25,8 @@ int Problem2_3_5()
     for (int i = 1; i <= n; i++) {
         printf("%d ", a[i]);
     }
+
+    free(a);
 
     return 0;
 }

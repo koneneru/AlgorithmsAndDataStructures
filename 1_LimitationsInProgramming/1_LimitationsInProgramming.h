@@ -3,3 +3,4 @@
 
 int StampCollection();
 int Problem2_3_5();
+int TooManySlices();

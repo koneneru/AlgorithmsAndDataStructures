@@ -75,6 +75,12 @@
     <ClCompile Include="1_LimitationsInProgramming\2_3_5.cpp">
       <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="1_LimitationsInProgramming\TooManySlices.cpp">
+      <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -99,6 +105,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="1_LimitationsInProgramming\1_LimitationsInProgramming.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
