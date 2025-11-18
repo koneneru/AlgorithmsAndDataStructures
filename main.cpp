@@ -5,7 +5,8 @@
 int main()
 {
     //1_LimitationsInProgramming
-    StampCollection();
+    //StampCollection();
+    Problem2_3_5();
 
     //3_DataStructures
     //GoblinsAndShamans();

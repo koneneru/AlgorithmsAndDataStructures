@@ -72,6 +72,9 @@
     <ClCompile Include="1_LimitationsInProgramming\StampCollection.cpp">
       <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="1_LimitationsInProgramming\2_3_5.cpp">
+      <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
