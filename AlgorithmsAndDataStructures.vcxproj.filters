@@ -81,6 +81,9 @@
     <ClCompile Include="common.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1_LimitationsInProgramming\AliceBobAndBeautifulLines.cpp">
+      <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

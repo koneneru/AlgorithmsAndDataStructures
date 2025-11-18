@@ -7,7 +7,8 @@ int main()
     //1_LimitationsInProgramming
     //StampCollection();
     //Problem2_3_5();
-    TooManySlices();
+    //TooManySlices();
+    AliceBobAndBeautifulLines();
 
     //3_DataStructures
     //GoblinsAndShamans();
