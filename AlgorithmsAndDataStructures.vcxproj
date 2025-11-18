@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1_LimitationsInProgramming\StampCollection.cpp" />
     <ClCompile Include="3_DataStructures\DeltaQueue.cpp" />
     <ClCompile Include="3_DataStructures\DNAReconstruction.cpp" />
     <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="Sort\MergeSort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1_LimitationsInProgramming\1_LimitationsInProgramming.h" />
     <ClInclude Include="3_DataStructures\3_DataStructures.h" />
     <ClInclude Include="DataStructures\Dequeue.h" />
     <ClInclude Include="DataStructures\FewickTree.h" />

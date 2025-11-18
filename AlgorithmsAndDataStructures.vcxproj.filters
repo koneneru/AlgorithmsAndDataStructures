@@ -25,6 +25,9 @@
     <Filter Include="Исходные файлы\Sort">
       <UniqueIdentifier>{37f15d7e-3f04-41a5-8abd-2b310b2dc18e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\1_LimitationsInProgramming">
+      <UniqueIdentifier>{e528fdef-a5cf-4e65-9a82-87330562d219}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -66,6 +69,9 @@
     <ClCompile Include="3_DataStructures\DNAReconstruction.cpp">
       <Filter>Исходные файлы\3_DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="1_LimitationsInProgramming\StampCollection.cpp">
+      <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -87,6 +93,9 @@
       <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
     <ClInclude Include="Sort\Sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="1_LimitationsInProgramming\1_LimitationsInProgramming.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
