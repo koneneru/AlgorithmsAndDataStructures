@@ -127,6 +127,7 @@
     <ClCompile Include="1_LimitationsInProgramming\AliceBobAndBeautifulLines.cpp" />
     <ClCompile Include="1_LimitationsInProgramming\StampCollection.cpp" />
     <ClCompile Include="1_LimitationsInProgramming\TooManySlices.cpp" />
+    <ClCompile Include="2_SortAndFind\RadixSort.cpp" />
     <ClCompile Include="3_DataStructures\DeltaQueue.cpp" />
     <ClCompile Include="3_DataStructures\DNAReconstruction.cpp" />
     <ClCompile Include="3_DataStructures\GoblinsAndShamans.cpp" />
@@ -144,6 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1_LimitationsInProgramming\1_LimitationsInProgramming.h" />
+    <ClInclude Include="2_SortAndFind\2_SortAndFind.h" />
     <ClInclude Include="3_DataStructures\3_DataStructures.h" />
     <ClInclude Include="common.h" />
     <ClInclude Include="DataStructures\Dequeue.h" />

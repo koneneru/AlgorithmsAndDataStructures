@@ -28,6 +28,9 @@
     <Filter Include="Исходные файлы\1_LimitationsInProgramming">
       <UniqueIdentifier>{e528fdef-a5cf-4e65-9a82-87330562d219}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\2_SortAndFind">
+      <UniqueIdentifier>{1687f25f-677f-4d0c-9a6f-525c9a2aca53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -84,6 +87,9 @@
     <ClCompile Include="1_LimitationsInProgramming\AliceBobAndBeautifulLines.cpp">
       <Filter>Исходные файлы\1_LimitationsInProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="2_SortAndFind\RadixSort.cpp">
+      <Filter>Исходные файлы\2_SortAndFind</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -111,6 +117,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="common.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="2_SortAndFind\2_SortAndFind.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

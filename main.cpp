@@ -1,5 +1,6 @@
 ﻿#include <stdio.h>
 #include "1_LimitationsInProgramming/1_LimitationsInProgramming.h"
+#include "2_SortAndFind/2_SortAndFind.h"
 #include "3_DataStructures/3_DataStructures.h"
 
 int main()
@@ -8,7 +9,10 @@ int main()
     //StampCollection();
     //Problem2_3_5();
     //TooManySlices();
-    AliceBobAndBeautifulLines();
+    //AliceBobAndBeautifulLines();
+
+    //2_SortAndFind
+    RadixSort();
 
     //3_DataStructures
     //GoblinsAndShamans();
