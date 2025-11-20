@@ -12,7 +12,8 @@ int main()
     //AliceBobAndBeautifulLines();
 
     //2_SortAndFind
-    RadixSort();
+    //RadixSort();
+    OrganizationOfTournament();
 
     //3_DataStructures
     //GoblinsAndShamans();

@@ -2,3 +2,4 @@
 #define SORTANDFIND_H
 
 int RadixSort();
+int OrganizationOfTournament();
