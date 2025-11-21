@@ -26,7 +26,8 @@ int main()
     //DnaReconstruction();
 
     //4_DynamicProgramming
-    ClassicFibonacciNumbers_2();
+    //ClassicFibonacciNumbers_2();
+    Problem2_3Stairs();
 
     return 0;
 }
