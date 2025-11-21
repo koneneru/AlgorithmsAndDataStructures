@@ -90,6 +90,12 @@
     <ClCompile Include="2_SortAndFind\RadixSort.cpp">
       <Filter>Исходные файлы\2_SortAndFind</Filter>
     </ClCompile>
+    <ClCompile Include="2_SortAndFind\K-thOrdinalStatistics.cpp">
+      <Filter>Исходные файлы\2_SortAndFind</Filter>
+    </ClCompile>
+    <ClCompile Include="2_SortAndFind\OrganizationOfTournament_hard.cpp">
+      <Filter>Исходные файлы\2_SortAndFind</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

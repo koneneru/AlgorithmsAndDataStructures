@@ -13,7 +13,8 @@ int main()
 
     //2_SortAndFind
     //RadixSort();
-    OrganizationOfTournament();
+    //OrganizationOfTournament();
+    KthOrdinalStatistics();
 
     //3_DataStructures
     //GoblinsAndShamans();

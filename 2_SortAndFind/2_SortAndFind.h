@@ -3,3 +3,4 @@
 
 int RadixSort();
 int OrganizationOfTournament();
+int KthOrdinalStatistics();
