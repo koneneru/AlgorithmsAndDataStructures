@@ -31,6 +31,9 @@
     <Filter Include="Исходные файлы\2_SortAndFind">
       <UniqueIdentifier>{1687f25f-677f-4d0c-9a6f-525c9a2aca53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\4_DynamicProgramming">
+      <UniqueIdentifier>{4477c4c3-863f-4430-9028-c0d896e331e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -96,6 +99,9 @@
     <ClCompile Include="2_SortAndFind\OrganizationOfTournament_hard.cpp">
       <Filter>Исходные файлы\2_SortAndFind</Filter>
     </ClCompile>
+    <ClCompile Include="4_DynamicProgramming\ClassicFibonacciNumbers_2.cpp">
+      <Filter>Исходные файлы\4_DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -126,6 +132,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="2_SortAndFind\2_SortAndFind.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="4_DynamicProgramming\4_DynamicProgramming.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
