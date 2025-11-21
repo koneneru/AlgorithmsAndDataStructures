@@ -27,7 +27,8 @@ int main()
 
     //4_DynamicProgramming
     //ClassicFibonacciNumbers_2();
-    Problem2_3Stairs();
+    //Problem2_3Stairs();
+    Hike();
 
     return 0;
 }
