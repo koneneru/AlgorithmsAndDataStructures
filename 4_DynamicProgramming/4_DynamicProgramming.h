@@ -6,3 +6,4 @@ int Problem2_3Stairs();
 int Hike();
 int ThreeOnesInRow();
 int Turtle_2();
+int KnightsMove();
