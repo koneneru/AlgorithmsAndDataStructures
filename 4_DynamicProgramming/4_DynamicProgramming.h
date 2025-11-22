@@ -4,3 +4,4 @@
 int ClassicFibonacciNumbers_2();
 int Problem2_3Stairs();
 int Hike();
+int ThreeOnesInRow();
