@@ -140,6 +140,7 @@
     <ClCompile Include="4_DynamicProgramming\ClassicFibonacciNumbers_2.cpp" />
     <ClCompile Include="4_DynamicProgramming\Hike.cpp" />
     <ClCompile Include="4_DynamicProgramming\ThreeOnesInRow.cpp" />
+    <ClCompile Include="4_DynamicProgramming\Turtle_2.cpp" />
     <ClCompile Include="common.cpp" />
     <ClCompile Include="DataStructures\Dequeue.cpp" />
     <ClCompile Include="DataStructures\FewickTree.cpp" />
