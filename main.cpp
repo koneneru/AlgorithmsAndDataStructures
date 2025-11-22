@@ -31,7 +31,8 @@ int main()
     //Hike();
     //ThreeOnesInRow();
     //Turtle_2();
-    KnightsMove();
+    //KnightsMove();
+    KnightsMove_2();
 
     return 0;
 }
