@@ -143,6 +143,7 @@
     <ClCompile Include="4_DynamicProgramming\KnightsMove.cpp" />
     <ClCompile Include="4_DynamicProgramming\KnightsMove_2.cpp" />
     <ClCompile Include="4_DynamicProgramming\OrangeAppleBanana_2.cpp" />
+    <ClCompile Include="4_DynamicProgramming\SmoothNumbers.cpp" />
     <ClCompile Include="4_DynamicProgramming\ThreeOnesInRow.cpp" />
     <ClCompile Include="4_DynamicProgramming\Turtle_2.cpp" />
     <ClCompile Include="common.cpp" />

@@ -34,7 +34,8 @@ int main()
     //KnightsMove();
     //KnightsMove_2();
     //OrangeAppleBanana_2();
-    Calculator();
+    //Calculator();
+    SmoothNumbers();
 
     return 0;
 }

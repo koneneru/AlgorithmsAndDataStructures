@@ -10,3 +10,4 @@ int KnightsMove();
 int KnightsMove_2();
 int OrangeAppleBanana_2();
 int Calculator();
+int SmoothNumbers();
