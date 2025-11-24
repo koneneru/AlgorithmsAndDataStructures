@@ -32,7 +32,8 @@ int main()
     //ThreeOnesInRow();
     //Turtle_2();
     //KnightsMove();
-    KnightsMove_2();
+    //KnightsMove_2();
+    OrangeAppleBanana_2();
 
     return 0;
 }
