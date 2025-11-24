@@ -35,7 +35,8 @@ int main()
     //KnightsMove_2();
     //OrangeAppleBanana_2();
     //Calculator();
-    SmoothNumbers();
+    //SmoothNumbers();
+    Knapsack();
 
     return 0;
 }
