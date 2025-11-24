@@ -33,7 +33,8 @@ int main()
     //Turtle_2();
     //KnightsMove();
     //KnightsMove_2();
-    OrangeAppleBanana_2();
+    //OrangeAppleBanana_2();
+    Calculator();
 
     return 0;
 }
