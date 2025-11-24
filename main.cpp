@@ -36,7 +36,8 @@ int main()
     //OrangeAppleBanana_2();
     //Calculator();
     //SmoothNumbers();
-    Knapsack();
+    //Knapsack();
+    MaxSubpalindrome();
 
     return 0;
 }
