@@ -138,6 +138,9 @@
     <ClCompile Include="4_DynamicProgramming\DatA2ItemSets.cpp">
       <Filter>Исходные файлы\4_DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="4_DynamicProgramming\ColoredBowling.cpp">
+      <Filter>Исходные файлы\4_DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

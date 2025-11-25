@@ -38,7 +38,8 @@ int main()
     //SmoothNumbers();
     //Knapsack();
     //MaxSubpalindrome();
-    Data2ItemSets();
+    //Data2ItemSets();
+    ColoredBowling();
 
     return 0;
 }
