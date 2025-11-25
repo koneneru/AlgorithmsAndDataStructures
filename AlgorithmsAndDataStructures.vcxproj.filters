@@ -141,6 +141,9 @@
     <ClCompile Include="4_DynamicProgramming\ColoredBowling.cpp">
       <Filter>Исходные файлы\4_DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="4_DynamicProgramming\Largest Increasing Subsequence.cpp">
+      <Filter>Исходные файлы\4_DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

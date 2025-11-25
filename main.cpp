@@ -39,7 +39,8 @@ int main()
     //Knapsack();
     //MaxSubpalindrome();
     //Data2ItemSets();
-    ColoredBowling();
+    //ColoredBowling();
+    LargestIncreasingSubsequence();
 
     return 0;
 }
