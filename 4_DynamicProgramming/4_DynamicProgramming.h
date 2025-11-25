@@ -13,3 +13,4 @@ int Calculator();
 int SmoothNumbers();
 int Knapsack();
 int MaxSubpalindrome();
+int Data2ItemSets();

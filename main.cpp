@@ -37,7 +37,8 @@ int main()
     //Calculator();
     //SmoothNumbers();
     //Knapsack();
-    MaxSubpalindrome();
+    //MaxSubpalindrome();
+    Data2ItemSets();
 
     return 0;
 }
