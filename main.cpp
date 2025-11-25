@@ -40,7 +40,8 @@ int main()
     //MaxSubpalindrome();
     //Data2ItemSets();
     //ColoredBowling();
-    LargestIncreasingSubsequence();
+    //LargestIncreasingSubsequence();
+    LargestCommonSubsequence();
 
     return 0;
 }
