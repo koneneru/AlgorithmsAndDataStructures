@@ -141,6 +141,7 @@
     <ClCompile Include="4_DynamicProgramming\ClassicFibonacciNumbers_2.cpp" />
     <ClCompile Include="4_DynamicProgramming\ColoredBowling.cpp" />
     <ClCompile Include="4_DynamicProgramming\DatA2ItemSets.cpp" />
+    <ClCompile Include="4_DynamicProgramming\EditorialDistance_1.cpp" />
     <ClCompile Include="4_DynamicProgramming\Hike.cpp" />
     <ClCompile Include="4_DynamicProgramming\Knapsack.cpp" />
     <ClCompile Include="4_DynamicProgramming\KnightsMove.cpp" />

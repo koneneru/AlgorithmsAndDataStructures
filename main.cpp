@@ -41,7 +41,8 @@ int main()
     //Data2ItemSets();
     //ColoredBowling();
     //LargestIncreasingSubsequence();
-    LargestCommonSubsequence();
+    //LargestCommonSubsequence();
+    EditorialDistance_1();
 
     return 0;
 }
