@@ -18,3 +18,4 @@ int ColoredBowling();
 int LargestIncreasingSubsequence();
 int LargestCommonSubsequence();
 int EditorialDistance_1();
+int EditorialDistance_2();

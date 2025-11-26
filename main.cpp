@@ -42,7 +42,8 @@ int main()
     //ColoredBowling();
     //LargestIncreasingSubsequence();
     //LargestCommonSubsequence();
-    EditorialDistance_1();
+    //EditorialDistance_1();
+    EditorialDistance_2();
 
     return 0;
 }
