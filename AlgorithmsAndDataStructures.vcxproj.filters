@@ -34,6 +34,9 @@
     <Filter Include="Исходные файлы\4_DynamicProgramming">
       <UniqueIdentifier>{4477c4c3-863f-4430-9028-c0d896e331e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\5_Graphs">
+      <UniqueIdentifier>{e870bf94-bbeb-4b3f-96cd-65e44707ff14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -153,6 +156,9 @@
     <ClCompile Include="4_DynamicProgramming\EditorialDistance_2.cpp">
       <Filter>Исходные файлы\4_DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="5_Graphs\DegreesOfGraphVertices.cpp">
+      <Filter>Исходные файлы\5_Graphs</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -186,6 +192,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="4_DynamicProgramming\4_DynamicProgramming.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="5_Graphs\5_Graphs.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

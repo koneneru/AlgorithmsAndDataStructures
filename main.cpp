@@ -3,6 +3,7 @@
 #include "2_SortAndFind/2_SortAndFind.h"
 #include "3_DataStructures/3_DataStructures.h"
 #include "4_DynamicProgramming/4_DynamicProgramming.h"
+#include "5_Graphs/5_Graphs.h"
 
 int main()
 {
@@ -43,7 +44,10 @@ int main()
     //LargestIncreasingSubsequence();
     //LargestCommonSubsequence();
     //EditorialDistance_1();
-    EditorialDistance_2();
+    //EditorialDistance_2();
+
+    //5_Graphs
+    DegreesOfGraphVertices();
 
     return 0;
 }
