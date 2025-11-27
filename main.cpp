@@ -47,7 +47,8 @@ int main()
     //EditorialDistance_2();
 
     //5_Graphs
-    DegreesOfGraphVertices();
+    //DegreesOfGraphVertices();
+    EdgeListGraph();
 
     return 0;
 }

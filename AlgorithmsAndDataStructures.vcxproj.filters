@@ -159,6 +159,9 @@
     <ClCompile Include="5_Graphs\DegreesOfGraphVertices.cpp">
       <Filter>Исходные файлы\5_Graphs</Filter>
     </ClCompile>
+    <ClCompile Include="5_Graphs\EdgeListGraph.cpp">
+      <Filter>Исходные файлы\5_Graphs</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

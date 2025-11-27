@@ -2,3 +2,4 @@
 #define GRAPHS_H
 
 int DegreesOfGraphVertices();
+int EdgeListGraph();
