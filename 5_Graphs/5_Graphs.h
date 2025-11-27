@@ -3,3 +3,4 @@
 
 int DegreesOfGraphVertices();
 int EdgeListGraph();
+int GraphByAdjacencyMatrix();
