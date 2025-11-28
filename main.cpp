@@ -49,7 +49,8 @@ int main()
     //5_Graphs
     //DegreesOfGraphVertices();
     //EdgeListGraph();
-    GraphByAdjacencyMatrix();
+    //GraphByAdjacencyMatrix();
+    LoopsAndMultipleEdgesInGraph();
 
     return 0;
 }

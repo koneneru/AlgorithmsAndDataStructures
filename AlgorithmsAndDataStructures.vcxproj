@@ -157,6 +157,7 @@
     <ClCompile Include="5_Graphs\DegreesOfGraphVertices.cpp" />
     <ClCompile Include="5_Graphs\EdgeListGraph.cpp" />
     <ClCompile Include="5_Graphs\GraphByAdjacencyMatrix.cpp" />
+    <ClCompile Include="5_Graphs\LoopsAndMultipleEdgesInGraph.cpp" />
     <ClCompile Include="common.cpp" />
     <ClCompile Include="DataStructures\Dequeue.cpp" />
     <ClCompile Include="DataStructures\FewickTree.cpp" />
