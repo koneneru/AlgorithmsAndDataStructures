@@ -6,3 +6,4 @@ int EdgeListGraph();
 int GraphByAdjacencyMatrix();
 int LoopsAndMultipleEdgesInGraph();
 int PlantForest();
+int CargoTransportation();

@@ -154,6 +154,7 @@
     <ClCompile Include="4_DynamicProgramming\SmoothNumbers.cpp" />
     <ClCompile Include="4_DynamicProgramming\ThreeOnesInRow.cpp" />
     <ClCompile Include="4_DynamicProgramming\Turtle_2.cpp" />
+    <ClCompile Include="5_Graphs\CargoTransportation.cpp" />
     <ClCompile Include="5_Graphs\DegreesOfGraphVertices.cpp" />
     <ClCompile Include="5_Graphs\EdgeListGraph.cpp" />
     <ClCompile Include="5_Graphs\GraphByAdjacencyMatrix.cpp" />

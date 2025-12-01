@@ -51,7 +51,8 @@ int main()
     //EdgeListGraph();
     //GraphByAdjacencyMatrix();
     //LoopsAndMultipleEdgesInGraph();
-    PlantForest();
+    //PlantForest();
+    CargoTransportation();
 
     return 0;
 }
