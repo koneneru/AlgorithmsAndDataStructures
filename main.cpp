@@ -50,7 +50,8 @@ int main()
     //DegreesOfGraphVertices();
     //EdgeListGraph();
     //GraphByAdjacencyMatrix();
-    LoopsAndMultipleEdgesInGraph();
+    //LoopsAndMultipleEdgesInGraph();
+    PlantForest();
 
     return 0;
 }
