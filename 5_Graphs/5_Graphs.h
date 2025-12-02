@@ -7,3 +7,4 @@ int GraphByAdjacencyMatrix();
 int LoopsAndMultipleEdgesInGraph();
 int PlantForest();
 int CargoTransportation();
+int FriendsOfFriends();

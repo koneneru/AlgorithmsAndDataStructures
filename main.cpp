@@ -52,7 +52,8 @@ int main()
     //GraphByAdjacencyMatrix();
     //LoopsAndMultipleEdgesInGraph();
     //PlantForest();
-    CargoTransportation();
+    //CargoTransportation();
+    FriendsOfFriends();
 
     return 0;
 }
