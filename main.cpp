@@ -53,7 +53,8 @@ int main()
     //LoopsAndMultipleEdgesInGraph();
     //PlantForest();
     //CargoTransportation();
-    FriendsOfFriends();
+    //FriendsOfFriends();
+    CellRemoval();
 
     return 0;
 }
