@@ -9,3 +9,4 @@ int PlantForest();
 int CargoTransportation();
 int FriendsOfFriends();
 int CellRemoval();
+int EncyclopediaOfSimpleGraphs();

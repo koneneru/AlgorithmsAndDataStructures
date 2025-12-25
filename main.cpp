@@ -54,7 +54,8 @@ int main()
     //PlantForest();
     //CargoTransportation();
     //FriendsOfFriends();
-    CellRemoval();
+    //CellRemoval();
+    EncyclopediaOfSimpleGraphs();
 
     return 0;
 }
