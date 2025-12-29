@@ -201,6 +201,9 @@
     <ClCompile Include="5_Graphs\NumberOfHamiltonianPaths.cpp">
       <Filter>Исходные файлы\5_Graphs</Filter>
     </ClCompile>
+    <ClCompile Include="5_Graphs\FlightsInTime.cpp">
+      <Filter>Исходные файлы\5_Graphs</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">

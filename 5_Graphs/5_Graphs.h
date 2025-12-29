@@ -12,3 +12,4 @@ int CellRemoval();
 int EncyclopediaOfSimpleGraphs();
 int Lines();
 int NumberOfHamiltonianPaths();
+int FlightsInTime();

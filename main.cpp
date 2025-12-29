@@ -57,7 +57,8 @@ int main()
     //CellRemoval();
     //EncyclopediaOfSimpleGraphs();
     //Lines();
-    NumberOfHamiltonianPaths();
+    //NumberOfHamiltonianPaths();
+    FlightsInTime();
 
     return 0;
 }

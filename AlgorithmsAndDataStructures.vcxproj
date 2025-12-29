@@ -159,6 +159,7 @@
     <ClCompile Include="5_Graphs\DegreesOfGraphVertices.cpp" />
     <ClCompile Include="5_Graphs\EdgeListGraph.cpp" />
     <ClCompile Include="5_Graphs\EncyclopediaOfSimpleGraphs.cpp" />
+    <ClCompile Include="5_Graphs\FlightsInTime.cpp" />
     <ClCompile Include="5_Graphs\FriendsOfFriends.cpp" />
     <ClCompile Include="5_Graphs\GraphByAdjacencyMatrix.cpp" />
     <ClCompile Include="5_Graphs\Lines.cpp" />
