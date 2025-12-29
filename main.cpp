@@ -55,7 +55,8 @@ int main()
     //CargoTransportation();
     //FriendsOfFriends();
     //CellRemoval();
-    EncyclopediaOfSimpleGraphs();
+    //EncyclopediaOfSimpleGraphs();
+    Lines();
 
     return 0;
 }

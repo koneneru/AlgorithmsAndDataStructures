@@ -10,3 +10,4 @@ int CargoTransportation();
 int FriendsOfFriends();
 int CellRemoval();
 int EncyclopediaOfSimpleGraphs();
+int Lines();

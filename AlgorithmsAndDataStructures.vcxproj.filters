@@ -37,6 +37,9 @@
     <Filter Include="Исходные файлы\5_Graphs">
       <UniqueIdentifier>{e870bf94-bbeb-4b3f-96cd-65e44707ff14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Algorithms">
+      <UniqueIdentifier>{041d401d-ffeb-49fc-91b6-270dc193848f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -183,6 +186,18 @@
     <ClCompile Include="5_Graphs\EncyclopediaOfSimpleGraphs.cpp">
       <Filter>Исходные файлы\5_Graphs</Filter>
     </ClCompile>
+    <ClCompile Include="5_Graphs\Lines.cpp">
+      <Filter>Исходные файлы\5_Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructures\BinHeap.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\Astar.cpp">
+      <Filter>Исходные файлы\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructures\GenericStack.cpp">
+      <Filter>Исходные файлы\DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
@@ -220,6 +235,18 @@
     </ClInclude>
     <ClInclude Include="5_Graphs\5_Graphs.h">
       <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\BinHeap.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms\Astar.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\Pair.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructures\GenericStack.h">
+      <Filter>Файлы заголовков\DataStructures</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
