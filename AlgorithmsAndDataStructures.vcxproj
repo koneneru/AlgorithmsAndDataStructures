@@ -163,6 +163,7 @@
     <ClCompile Include="5_Graphs\GraphByAdjacencyMatrix.cpp" />
     <ClCompile Include="5_Graphs\Lines.cpp" />
     <ClCompile Include="5_Graphs\LoopsAndMultipleEdgesInGraph.cpp" />
+    <ClCompile Include="5_Graphs\NumberOfHamiltonianPaths.cpp" />
     <ClCompile Include="5_Graphs\PlantForest.cpp" />
     <ClCompile Include="Algorithms\Astar.cpp" />
     <ClCompile Include="common.cpp" />

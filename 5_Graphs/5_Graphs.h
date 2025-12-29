@@ -11,3 +11,4 @@ int FriendsOfFriends();
 int CellRemoval();
 int EncyclopediaOfSimpleGraphs();
 int Lines();
+int NumberOfHamiltonianPaths();

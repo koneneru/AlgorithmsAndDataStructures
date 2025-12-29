@@ -56,7 +56,8 @@ int main()
     //FriendsOfFriends();
     //CellRemoval();
     //EncyclopediaOfSimpleGraphs();
-    Lines();
+    //Lines();
+    NumberOfHamiltonianPaths();
 
     return 0;
 }
