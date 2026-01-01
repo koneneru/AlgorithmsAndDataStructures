@@ -58,7 +58,8 @@ int main()
     //EncyclopediaOfSimpleGraphs();
     //Lines();
     //NumberOfHamiltonianPaths();
-    FlightsInTime();
+    //FlightsInTime();
+    Spellstorm();
 
     return 0;
 }
