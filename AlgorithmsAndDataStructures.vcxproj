@@ -165,6 +165,7 @@
     <ClCompile Include="5_Graphs\Lines.cpp" />
     <ClCompile Include="5_Graphs\LoopsAndMultipleEdgesInGraph.cpp" />
     <ClCompile Include="5_Graphs\NumberOfHamiltonianPaths.cpp" />
+    <ClCompile Include="5_Graphs\PiggyBack.cpp" />
     <ClCompile Include="5_Graphs\PlantForest.cpp" />
     <ClCompile Include="5_Graphs\Shiriivuk.cpp" />
     <ClCompile Include="5_Graphs\Spellstorm.cpp" />

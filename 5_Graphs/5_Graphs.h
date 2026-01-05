@@ -15,3 +15,4 @@ int NumberOfHamiltonianPaths();
 int FlightsInTime();
 int Spellstorm();
 int Shiriivuk();
+int PiggyBack();

@@ -60,7 +60,8 @@ int main()
     //NumberOfHamiltonianPaths();
     //FlightsInTime();
     //Spellstorm();
-    Shiriivuk();
+    //Shiriivuk();
+    PiggyBack();
 
     return 0;
 }
