@@ -59,7 +59,8 @@ int main()
     //Lines();
     //NumberOfHamiltonianPaths();
     //FlightsInTime();
-    Spellstorm();
+    //Spellstorm();
+    Shiriivuk();
 
     return 0;
 }
