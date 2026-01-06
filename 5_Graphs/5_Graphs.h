@@ -17,3 +17,4 @@ int Spellstorm();
 int Shiriivuk();
 int PiggyBack();
 int PureDijkstra();
+int PurePrima();

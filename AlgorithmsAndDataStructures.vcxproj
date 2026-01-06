@@ -168,6 +168,7 @@
     <ClCompile Include="5_Graphs\PiggyBack.cpp" />
     <ClCompile Include="5_Graphs\PlantForest.cpp" />
     <ClCompile Include="5_Graphs\PureDijkstra.cpp" />
+    <ClCompile Include="5_Graphs\PurePrima.cpp" />
     <ClCompile Include="5_Graphs\Shiriivuk.cpp" />
     <ClCompile Include="5_Graphs\Spellstorm.cpp" />
     <ClCompile Include="Algorithms\Astar.cpp" />

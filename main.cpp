@@ -62,7 +62,8 @@ int main()
     //Spellstorm();
     //Shiriivuk();
     //PiggyBack();
-    PureDijkstra();
+    //PureDijkstra();
+    PurePrima();
 
     return 0;
 }
