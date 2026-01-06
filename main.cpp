@@ -61,7 +61,8 @@ int main()
     //FlightsInTime();
     //Spellstorm();
     //Shiriivuk();
-    PiggyBack();
+    //PiggyBack();
+    PureDijkstra();
 
     return 0;
 }

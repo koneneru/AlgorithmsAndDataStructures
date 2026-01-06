@@ -16,3 +16,4 @@ int FlightsInTime();
 int Spellstorm();
 int Shiriivuk();
 int PiggyBack();
+int PureDijkstra();
