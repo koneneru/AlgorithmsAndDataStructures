@@ -19,7 +19,8 @@ int main()
     //KthOrdinalStatistics();
 
     //3_DataStructures
-    EnglishLatinDictionary();
+    //EnglishLatinDictionary();
+    PricesAtShesterochka();
     //GoblinsAndShamans();
     //DeltaQueue();
     //SumOverChangingSegment();

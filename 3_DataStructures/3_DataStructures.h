@@ -2,6 +2,7 @@
 #define DATASTRUCTURES_H
 
 int EnglishLatinDictionary();
+int PricesAtShesterochka();
 int GoblinsAndShamans();
 int DeltaQueue();
 int SumOverChangingSegment();
