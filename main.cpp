@@ -19,6 +19,7 @@ int main()
     //KthOrdinalStatistics();
 
     //3_DataStructures
+    EnglishLatinDictionary();
     //GoblinsAndShamans();
     //DeltaQueue();
     //SumOverChangingSegment();
@@ -63,7 +64,7 @@ int main()
     //Shiriivuk();
     //PiggyBack();
     //PureDijkstra();
-    PurePrima();
+    //PurePrima();
 
     return 0;
 }
