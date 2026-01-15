@@ -20,13 +20,14 @@ int main()
 
     //3_DataStructures
     //EnglishLatinDictionary();
-    PricesAtShesterochka();
+    //PricesAtShesterochka();
     //GoblinsAndShamans();
     //DeltaQueue();
     //SumOverChangingSegment();
     //MassUpdate2();
     //LargeLinearCollider();
     //DnaReconstruction();
+    DJRotate();
 
     //4_DynamicProgramming
     //ClassicFibonacciNumbers_2();

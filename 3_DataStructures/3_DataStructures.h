@@ -9,3 +9,4 @@ int SumOverChangingSegment();
 int MassUpdate2();
 int DnaReconstruction();
 int LargeLinearCollider();
+int DJRotate();

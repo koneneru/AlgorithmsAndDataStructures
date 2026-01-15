@@ -225,6 +225,9 @@
     <ClCompile Include="3_DataStructures\PricesAtShesterochka.cpp">
       <Filter>Исходные файлы\3_DataStructures</Filter>
     </ClCompile>
+    <ClCompile Include="3_DataStructures\DJRotate.cpp">
+      <Filter>Исходные файлы\3_DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3_DataStructures\3_DataStructures.h">
