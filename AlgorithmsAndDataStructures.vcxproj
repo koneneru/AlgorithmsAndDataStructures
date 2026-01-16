@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="1_LimitationsInProgramming\2_3_5.cpp" />
     <ClCompile Include="1_LimitationsInProgramming\AliceBobAndBeautifulLines.cpp" />
+    <ClCompile Include="1_LimitationsInProgramming\DroidNumbering.cpp" />
     <ClCompile Include="1_LimitationsInProgramming\StampCollection.cpp" />
     <ClCompile Include="1_LimitationsInProgramming\TooManySlices.cpp" />
     <ClCompile Include="2_SortAndFind\K-thOrdinalStatistics.cpp" />

@@ -12,6 +12,7 @@ int main()
     //Problem2_3_5();
     //TooManySlices();
     //AliceBobAndBeautifulLines();
+    DroidNumbering();
 
     //2_SortAndFind
     //RadixSort();
@@ -27,7 +28,7 @@ int main()
     //MassUpdate2();
     //LargeLinearCollider();
     //DnaReconstruction();
-    DJRotate();
+    //DJRotate();
 
     //4_DynamicProgramming
     //ClassicFibonacciNumbers_2();
